@@ -8,7 +8,7 @@ This project leverages the IBM HR Analytics Attrition dataset to create a compre
 
 ![Dashboard_Snapshot](your_image_link_here)
 
-### Dashboard Link: [Your Power BI Dashboard Link]([https://app.powerbi.com](https://app.powerbi.com/view?r=eyJrIjoiYWMwYmQyMGMtNTMxNy00YWU5LWJkNTUtN2UxYmQ3MTA4NjI1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+### Dashboard Link: [Power BI Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiYWMwYmQyMGMtNTMxNy00YWU5LWJkNTUtN2UxYmQ3MTA4NjI1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Problem Statement
 
